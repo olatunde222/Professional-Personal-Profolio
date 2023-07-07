@@ -1,4 +1,4 @@
-# Professional-Personal-Profolio
+# Professional-Personal-Portfolio
 A single page personal portfolio and a downloadable resume Using HTML , CSS and JavaScript 
 ![thumbnail](https://github.com/olatunde222/Professional-Personal-Profolio/assets/115417709/d1964ff9-647b-45fa-aa43-465a734ea421)
 ![thumbnail](https://github.com/olatunde222/Professional-Personal-Profolio/assets/115417709/9f9531f3-10a7-400a-abe6-1103ea9708b5)
